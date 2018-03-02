@@ -1,0 +1,11 @@
+button.active {
+    font-weight: bold;
+}
+
+.tabs div {
+    display: none;
+}
+
+.tabs .active {
+    display: block;
+}
